@@ -5,6 +5,7 @@ The forebears of the Asaf Jahi Dynasty came to India from Samarkand, in Central 
 20 Jun 1720 Mughal governor with style Nizam al-Molk establishes a quasi-independent state.
 // Commit # 4
 7 Dec 1724 Hyderabad made capital of the state.
+// Commit # 5
 12 Nov 1766 British protectorate (and 22 Aug 1809).
 15 Aug 1947 Nizam refuses to accede to the Dominion of India.
 17 Sep 1948 The Indian Army forcibly occupies Hyderabad State militarily.
